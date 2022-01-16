@@ -1,10 +1,16 @@
 
 Created by 
 
-Karuturi, Srilokh \n
-Naicker, Sharun Lokesh \n
-Narang, Yoshita \n
-Narendrula, Nehanth \n
+Karuturi, Srilokh 
+
+
+Naicker, Sharun Lokesh 
+
+
+Narang, Yoshita 
+
+
+Narendrula, Nehanth
 
 DEMO: https://youtu.be/iem6PUYRa6I
 
